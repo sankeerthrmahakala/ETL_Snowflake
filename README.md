@@ -19,7 +19,7 @@ order_details.csv
 
 Step-by-step process:
 1) Created Database, Schema, and Warehouse
-2) Created Snowflake internal
+2) Created Snowflake internal Stage
 3) Uploaded raw SQLs to internal Stage using SnowSQL Command Line Interface
 4) Created Target Tables in Snowflake
 5) Copied data from Stage to Target tables
